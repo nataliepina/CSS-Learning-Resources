@@ -1,4 +1,4 @@
-# CSS-Learning-Resources
+# CSS Learning Resources
 A collection of the best CSS resources. 
 
 ## Courses
