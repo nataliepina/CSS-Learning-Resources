@@ -20,6 +20,7 @@ A collection of the best CSS resources.
 - [Learn responsive design](https://www.coursera.org/learn/responsivedesign?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-N8bfvHnLZKmwhdi2fKThTA&siteID=JVFxdTr9V80-N8bfvHnLZKmwhdi2fKThTA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80)
 - [Learn CSS](https://www.edx.org/learn/css)
 - [CSS - Basic to Advanced](https://www.codecademy.com/catalog/language/html-css?utm_source=pepperjam&utm_medium=affiliate&utm_term=231808&clickId=3835390508&pj_creativeid=8-12462&pj_publisherid=231808)
+- [CSS for Beginners](https://www.sololearn.com/learning/1023)
 
 ## News
 
