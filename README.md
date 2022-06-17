@@ -24,6 +24,6 @@ A collection of the best CSS resources.
 
 ## News
 
-- [CSS Tricks](https://css-tricks.com/) by @ui_natalie
+- [CSS Tricks](https://css-tricks.com/)
 - [CSS for JavaScript Developers](https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=124822&q=site:https%3A%2F%2Fstackoverflow.com%2Ffeeds%2Ftag%3Ftagnames%3Dcss)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
