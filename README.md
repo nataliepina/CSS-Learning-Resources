@@ -23,6 +23,10 @@ A collection of the best CSS resources.
 - [CSS for Beginners](https://www.sololearn.com/learning/1023)
 - [Learn CSS Grid](https://scrimba.com/learn/cssgrid)
 
+## Games
+
+- [FlexBox Froggy](https://flexboxfroggy.com/)
+
 ## News
 
 - [CSS Tricks](https://css-tricks.com/)
