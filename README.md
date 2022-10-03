@@ -21,6 +21,7 @@ A collection of the best CSS resources.
 - [Learn CSS](https://www.edx.org/learn/css)
 - [CSS - Basic to Advanced](https://www.codecademy.com/catalog/language/html-css?utm_source=pepperjam&utm_medium=affiliate&utm_term=231808&clickId=3835390508&pj_creativeid=8-12462&pj_publisherid=231808)
 - [CSS for Beginners](https://www.sololearn.com/learning/1023)
+- [Learn CSS Grid](https://scrimba.com/learn/cssgrid)
 
 ## News
 
