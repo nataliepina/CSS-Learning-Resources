@@ -8,6 +8,9 @@ A collection of the best CSS resources.
 - [Documents for CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Tutorialspoint - CSS](https://www.tutorialspoint.com/css/index.htm)
 - [Learn CSS](https://web.dev/learn/css/)
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Codecademy](https://www.codecademy.com/learn/learn-css)
+- [A Complete Guide to Flexbox:](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Courses
 
@@ -26,8 +29,15 @@ A collection of the best CSS resources.
 ## Games
 
 - [FlexBox Froggy](https://flexboxfroggy.com/)
+- [Grid Garden](https://cssgridgarden.com/)
+- [CSS Diner](https://flukeout.github.io/)
+- [CSS Battle](https://cssbattle.dev/)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
 
 ## News
 
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Web Designer News](https://webdesignernews.com/)
+- [Codrops](https://tympanus.net/codrops/)
+- [SitePoint](https://www.sitepoint.com/)
