@@ -11,6 +11,9 @@ A collection of the best CSS resources.
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Codecademy](https://www.codecademy.com/learn/learn-css)
 - [A Complete Guide to Flexbox:](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Interneting is Hard](https://internetingishard.netlify.app/)
+- [Responsive Web design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [Scrimba](https://scrimba.com/allcourses?price=free&topic=css)
 
 ## Courses
 
@@ -33,6 +36,7 @@ A collection of the best CSS resources.
 - [CSS Diner](https://flukeout.github.io/)
 - [CSS Battle](https://cssbattle.dev/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox](https://mastery.games/flexboxzombies/)
 
 ## News
 
