@@ -14,6 +14,7 @@ A collection of the best CSS resources.
 - [Interneting is Hard](https://internetingishard.netlify.app/)
 - [Responsive Web design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [Scrimba](https://scrimba.com/allcourses?price=free&topic=css)
+- [CSS Portal](https://www.cssportal.com/)
 
 ## Courses
 
