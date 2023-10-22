@@ -17,6 +17,7 @@ A collection of the best CSS resources.
 - [CSS Portal](https://www.cssportal.com/)
 - [CodeWithHarry](https://www.codewithharry.com/tutorial/css-home/)
 - [Programiz](https://www.programiz.com/)
+
 ## Courses
 
 - [CSS for JavaScript Developers](https://css-for-js.dev/)
