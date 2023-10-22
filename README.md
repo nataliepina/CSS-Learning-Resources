@@ -16,6 +16,7 @@ A collection of the best CSS resources.
 - [Scrimba](https://scrimba.com/allcourses?price=free&topic=css)
 - [CSS Portal](https://www.cssportal.com/)
 - [CodeWithHarry](https://www.codewithharry.com/tutorial/css-home/)
+- [CodePen](https://codepen.io/)
 ## Courses
 
 - [CSS for JavaScript Developers](https://css-for-js.dev/)
