@@ -18,6 +18,9 @@ A collection of the best CSS resources.
 - [CodeWithHarry](https://www.codewithharry.com/tutorial/css-home/)
 - [Programiz](https://www.programiz.com/)
 - [CodePen](https://codepen.io/)
+- [Awesome-CSS Learning](https://github.com/micromata/awesome-css-learning)
+- [ModernCSS.dev](https://moderncss.dev/)
+- [SmolCSS](https://smolcss.dev/)
 
 ## Courses
 
@@ -32,6 +35,7 @@ A collection of the best CSS resources.
 - [CSS - Basic to Advanced](https://www.codecademy.com/catalog/language/html-css?utm_source=pepperjam&utm_medium=affiliate&utm_term=231808&clickId=3835390508&pj_creativeid=8-12462&pj_publisherid=231808)
 - [CSS for Beginners](https://www.sololearn.com/learning/1023)
 - [Learn CSS Grid](https://scrimba.com/learn/cssgrid)
+- [CSSGrid.io](https://cssgrid.io/)
 
 ## Interactive Learning
 
@@ -46,6 +50,8 @@ A collection of the best CSS resources.
 - [CSS Battle](https://cssbattle.dev/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [Flexbox](https://mastery.games/flexboxzombies/)
+- [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)
+- [Grid attackpermalink](https://codingfantasy.com/games/css-grid-attack/play)
 
 ## CSS Frameworks
 
