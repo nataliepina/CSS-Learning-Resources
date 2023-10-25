@@ -51,7 +51,7 @@ A collection of the best CSS resources.
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [Flexbox](https://mastery.games/flexboxzombies/)
 - [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)
-- [Grid attackpermalink](https://codingfantasy.com/games/css-grid-attack/play)
+- [Grid Attack](https://codingfantasy.com/games/css-grid-attack/play)
 
 ## CSS Frameworks
 
