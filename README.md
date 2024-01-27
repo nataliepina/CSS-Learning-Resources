@@ -21,6 +21,7 @@ A collection of the best CSS resources.
 - [Awesome-CSS Learning](https://github.com/micromata/awesome-css-learning)
 - [ModernCSS.dev](https://moderncss.dev/)
 - [SmolCSS](https://smolcss.dev/)
+- [CSSReference](https://cssreference.io/)
 
 ## Courses
 
